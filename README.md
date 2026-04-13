@@ -51,14 +51,7 @@ The model does a good job at **identifying customers who are likely to churn (hi
 
 ---
 
-## Possible Improvements
 
-* Trying tree-based models like Random Forest or XGBoost
-* Hyperparameter tuning
-* Improve precision while maintaining high recall
-* Deploy as a small web app
-
----
 
 ## Author
 
